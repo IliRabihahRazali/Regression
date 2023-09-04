@@ -1,1 +1,2 @@
-# Regression
+One mobile phone company in Europe plan to sell the refurbished mobile phone, and they want to analyze whether this business is able to give them a good margin and try to attract specific customer.  Therefore, I helped them to analyze and building a linear regression model on their business based on their history data.
+I have built a linear regression before on during my professional career as an Engineer, but using a sturctured data.  This project will be my first model building on semi/unstructured data, and it is fun learning.  All this while, I thought I master the model building, and yet, now I know, the more I explore into the unknown, the more unknown things keep me to re-learn and re-calibrate my knowledge.
